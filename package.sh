@@ -3,4 +3,4 @@ dpkg-scanpackages -m ./debs > Packages
 bzip2 Packages
 git add .
 git commit -m "zz"
-git push main master
+git push origin main
