@@ -1,0 +1,14 @@
+{
+    "com.facebook.Facebook.NotificationsWidgetExtension": "/private/var/mobile/Containers/Data/PluginKitPlugin/B086F59A-016D-4205-95F5-24451EDC3C48/Library/___Crane_Containers/CONTAINER_FACEBOOK_1",
+    "group.com.facebook.Facebook": "/private/var/mobile/Containers/Shared/AppGroup/4AE46FE8-DEC3-44CE-812D-39B266E90302/Library/___Crane_Containers/CONTAINER_FACEBOOK_1",
+    "group.com.facebook.msysstorage": "/private/var/mobile/Containers/Shared/AppGroup/0A7C7E98-AE55-4AF1-A4C2-DB255A8E7C62/Library/___Crane_Containers/CONTAINER_FACEBOOK_1",
+    "com.facebook.Facebook.IntentsExtension": "/private/var/mobile/Containers/Data/PluginKitPlugin/EEFFC377-3DCE-4AA7-AC17-28ECC3B74BF2/Library/___Crane_Containers/CONTAINER_FACEBOOK_1",
+    "com.facebook.Facebook.NotificationServiceExtension": "/private/var/mobile/Containers/Data/PluginKitPlugin/EF49650F-8D57-4D8D-AF5F-722CDAEC8371/Library/___Crane_Containers/CONTAINER_FACEBOOK_1",
+    "com.facebook.Facebook.NotificationContentExtension": "/private/var/mobile/Containers/Data/PluginKitPlugin/0BEAD1E9-EF15-4D58-8B84-C9309D61D72E/Library/___Crane_Containers/CONTAINER_FACEBOOK_1",
+    "com.facebook.Facebook.VideoWidgetExtension": "/private/var/mobile/Containers/Data/PluginKitPlugin/C15E8516-FC83-4BF3-A7FE-814EB55A1506/Library/___Crane_Containers/CONTAINER_FACEBOOK_1",
+    "com.apple.share.Facebook.post": "/private/var/mobile/Containers/Data/PluginKitPlugin/DA8779DE-3015-4BC2-A3AC-14443251FABC/Library/___Crane_Containers/CONTAINER_FACEBOOK_1",
+    "com.facebook.Facebook.BroadcastUploadExtension": "/private/var/mobile/Containers/Data/PluginKitPlugin/0896F8F9-1FD0-483F-ACFF-785C2C03842A/Library/___Crane_Containers/CONTAINER_FACEBOOK_1",
+    "group.com.facebook.family": "/private/var/mobile/Containers/Shared/AppGroup/EFEE5567-8DB1-4424-8270-1C7A3D957621/Library/___Crane_Containers/CONTAINER_FACEBOOK_1",
+    "com.facebook.Facebook": "/private/var/mobile/Containers/Data/Application/888C1DF5-870F-4D5A-B89D-87637D09C0F8/Library/___Crane_Containers/CONTAINER_FACEBOOK_1",
+    "com.facebook.Facebook.WidgetExtension": "/private/var/mobile/Containers/Data/PluginKitPlugin/92B443B6-0942-44E5-B539-9706BBBB53B5/Library/___Crane_Containers/CONTAINER_FACEBOOK_1"
+}
